@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c198acca10f0ce740b43e9a8f03095e1, type: 3}
+  m_Name: secondary_pulsar_turret_03
+  m_EditorClassIdentifier: 
+  m_Mode: 1
+  m_ProjectilePrefab: {fileID: 99944424598412700, guid: 8b14078a738f04346bf196accdcd5aff, type: 3}
+  m_RateOfFire: 2
+  m_EnergyUsage: 5
+  m_AmmoUsage: 0
+  m_LaunchSFX: {fileID: 8300000, guid: 8fc7fd2024e382d4385a360df56f353c, type: 3}
